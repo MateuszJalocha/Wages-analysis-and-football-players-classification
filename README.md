@@ -25,6 +25,16 @@ Due to the popularity of this discipline, it is also very well paid. Players in 
 
 Most of the data were downloaded from https://www.kaggle.com/stefanoleone992/fifa-20-complete-player-dataset and relate to the 2019/2020 season. They concern the statistics that footballers have in the latest version of the cult series which is FIFA.
 
+## Files
+
+The analysis file is made in Polish, but the comments in the code files are in English.
+
+- **Data directory** - you can find there a csv file with the players data
+- **HTML directory** - knitted file with "ipynb" extension, you can find there results and analysis (polish language)
+- **Images directory** - you can find there plots included in README
+- **Wages_analysis_and_classification.ipynb** - project file (jupiter extension)
+- **Wages_analysis_and_classification.py** - project file
+
 ## Main libraries
 
 - **sklearn**, **statsmodels** - Machine Learning
