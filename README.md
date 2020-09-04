@@ -23,7 +23,7 @@ Most of the data were downloaded from https://www.kaggle.com/stefanoleone992/fif
 
 ## Files
 
-The analysis file is made in Polish, but the comments in the files with code are in English.
+The analysis file is made in Polish, but comments in the files with code are in English.
 
 - **Data directory** - you can find there a csv file with the players data
 - **HTML directory** - knitted file with "ipynb" extension, you can find there results and analysis (polish language)
