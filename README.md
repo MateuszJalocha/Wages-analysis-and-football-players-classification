@@ -3,13 +3,9 @@
 In the 21st century, football is by far the most popular sport in the world, and the countless leagues in most officially recognised countries allow even the most eccentric tastes to be satisfied. At present, according to the FIFA ranking, there are five leagues among the most popular and best:
 
 - **Premier League** - the best league in England,
-
 - **Primera Division** - the best league in Spain,
-
 - **Bundesliga** - the best league in Germany,
-
 - **Serie A** - the best league in Italy,
-
 - **Ligue 1** - the best league in France.
 
 Due to the popularity of this discipline, it is also very well paid. Players in the English Premier League earn on average, which is the highest score among the listed league games. This survey will determine what are the dominant earnings drivers in each league (**Multiple Regression**) and whether we are able to determine their overall position on the pitch (**KNN**, **Random Forest**, **AdaBoosting**) based on player statistics. Due to the differences in statistics that characterise the players, only field players have been taken into account in the survey. **It should be taken into account that the data from Fifa are not fully representative**
