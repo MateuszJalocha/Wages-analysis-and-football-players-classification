@@ -37,7 +37,7 @@ In the second part, classification models were created (**KNN**, **Deciding Tree
 
 <p align="center">
 
-<img align = "center" src ="Images/results.png" />
+<img align = "center" src ="Images/Results.png" />
 
 </p>
 
