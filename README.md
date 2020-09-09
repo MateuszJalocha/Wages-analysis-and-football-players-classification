@@ -61,4 +61,4 @@ The analysis file is made in Polish, but comments in the files with code are in 
 
 ## Contributors
 
-- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jałocha-8942701b6/)
+- **Mateusz Jałocha** (mat.jalocha@gmail.com, https://www.linkedin.com/in/mateusz-jałocha)
