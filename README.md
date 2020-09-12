@@ -33,7 +33,7 @@ The study analyzed the salaries of players depending on their position and the l
 
 The values in parentheses indicate how much euros will increase earnings when the variable is increased by one unit. In all leagues, the value of a footballer significantly influences earnings, and whether a footballer is a winger only in the A Series is not important. Recently, there has been a significant increase in the value of transfers of young talented footballers in the football world. Although their value is high, clubs often do not decide on a payroll disorder, which can be reflected in the fact that age has a significant positive impact on the earnings of players.
 
-In the second part, classification models were created (**KNN**, **Deciding Tree**, **Random Forest**), by means of which players were assigned to a position (middle defender, side defender, middle midfielder, side midfielder, striker, winger). A summary of the results is presented in the bar chart below.
+In the second part, classification models were created (**KNN**, **Deciding Tree**, **Random Forest**), by means of which players were assigned to a position (middle defender, side defender, midfielder, side midfielder, striker, winger). A summary of the results is presented in the bar chart below.
 
 <p align="center">
 
