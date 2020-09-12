@@ -8,7 +8,7 @@ In the 21st century, football is by far the most popular sport in the world, and
 - **Serie A** - the best league in Italy,
 - **Ligue 1** - the best league in France.
 
-Due to the popularity of this discipline, it is also very well paid. Players in the English Premier League earn on average £3m a year, which is the highest score among the listed league games. This survey will determine what are the dominant earnings players in each league (**Multiple Regression**) and whether we are able to determine their overall position on the pitch (**KNN**, **Random Forest**, **AdaBoosting**) based on player statistics. Due to the differences in statistics that characterise the players, only field players have been taken into account in the survey. Below is a boxplot with players earnings depending on the league and position on the pitch and confusion matrix. **It should be taken into account that the data from Fifa are not fully representative**
+Due to the popularity of this discipline, it is also very well paid. Players in the English Premier League earn on average £3m a year, which is the highest score among the listed league games. This survey will determine what are the dominants of earnings players in each league (**Multiple Regression**) and whether we are able to determine their main position on the pitch (**KNN**, **Random Forest**, **AdaBoosting**) based on player statistics. Due to the differences in statistics that characterise the players, only field players have been taken into account in the survey. Below is a boxplot with players earnings depending on the league and position on the pitch and confusion matrix. **It should be taken into account that the data from Fifa are not fully representative**
 
 <p align="center">
 
